@@ -10,14 +10,14 @@
 
   // Counter clockwise
   const symbolSegments = {
-    1: "Frog",
-    2: "Snail",
-    3: "Dolphin",
-    4: "Ladybug",
-    5: "Koala",
-    6: "Unicorn",
-    7: "Dragon",
-    8: "Snowman",
+    1: "50% OFF",
+    2: "Free Coupon",
+    3: "10% OFF",
+    4: "1 Month Free Subcription",
+    5: "20% OFF ",
+    6: "30 % OFF",
+    7: "Extra",
+    8: "15 Days Free Subcription",
   }
 
   const handleWin = (actualDeg) => {
